@@ -1,0 +1,5 @@
+# Compiled executables
+bin/
+
+# VS Code
+.vscode/
